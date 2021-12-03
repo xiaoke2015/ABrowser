@@ -16,3 +16,5 @@
 
 我们一直在思考如何让浏览器更加高效，更加出色。直到我们研发了这款浏览器，我们将为用户创造更加快速的上网体验。
 更多贴心细节，等你不经意间发现，赶快下载体验吧！
+
+[![](https://is5-ssl.mzstatic.com/image/thumb/Purple126/v4/4b/b1/d0/4bb1d0b4-b165-7a3c-2b1f-0b610be9180c/AppIcon-0-0-1x_U007emarketing-0-0-0-5-0-0-P3-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/230x0w.webp)](https://apps.apple.com/cn/app/id1596882756)
